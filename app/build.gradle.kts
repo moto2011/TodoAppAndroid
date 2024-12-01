@@ -9,7 +9,7 @@ plugins {
 android {
     namespace = "com.motonaka.todoapp"
 
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.motonaka.todoapp"
